@@ -51,3 +51,6 @@ python app.py
 
 ---
 
+### **Program language `Arabic` `العربية`**
+
+---
